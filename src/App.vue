@@ -7,10 +7,8 @@ import "vue3-pdf-app/dist/icons/main.css";
 <template>
   <div>
       <vue-pdf-app
-          title="123"
           style="height: 100vh;"
           pdf="/catalog.pdf"
-          theme="light"
       />
   </div>
 </template>
